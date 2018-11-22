@@ -1,0 +1,5 @@
+package cn.lightfish;
+
+public enum  Msg {
+    LOGIC_STEP,LOGIC_TIME,LOGIC_ID,LOGIC_REGION,LOGIC_STORE,LOGIC_COMPUTE_RESOURCE
+}
